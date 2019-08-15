@@ -6,7 +6,7 @@ To use the content, you must be part of the beta Program for SAP Data Warehousin
 If you want to use your SAP HANA as a remote source with the content, you need a SAP HANA 2.x release
 Of course any HANA 1.x release can be used with SAP Data Warehouse Cloud, but the sample can currently only be imported into SAP HANA 2.x
 # Download and Installation
-Download the ZIP file (dwc_content.zip) from [release page](https://github.wdf.sap.corp/SAP-samples/data-warehouse-cloud-content-beta/releases).
+Download the ZIP file (dwc_content.zip) from [release page](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/releases).
 The ZIP file contains:
 *	SAP HANA Import (dwc_content.tar.gz) 
 *	CSV files (dwc_content_csv.zip)
