@@ -13,7 +13,7 @@ The ZIP file contains:
 
 Download the Tutorial directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/blob/master/SAP%20Data%20Warehouse%20Cloud%20beta%20content%20-%20Tutorial.pdf).
 # Configuration
-To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP help documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/beta/en-US).
+To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP help documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/beta/en-US) (will be available with the start of the Beta Program on Aug. 19).
 # Know Issues
 None
 # Support and Contribution
