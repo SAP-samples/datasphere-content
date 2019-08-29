@@ -21,4 +21,4 @@ This project is provided "as-is": there is no guarantee that raised issues will 
 For more information, please visit the SAP community page or contact your SAP contact to obtain support.
 
 # License
-This project is licensed under the SAP SAMPLE CODE LICENSE AGREEMENT except as noted otherwise in the LICENSE file.
+This project is licensed under the SAP Sample Code License Agreement except as noted otherwise in the [LICENSE file](/license).
