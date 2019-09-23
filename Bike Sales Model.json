@@ -321,7 +321,7 @@
         "EMAILADDRESS": {
           "type": "cds.String",
           "@Common.Label": "Email address",
-          "length": 225
+          "length": 255
         },
         "PHONENUMBER": {
           "type": "cds.String",
@@ -444,7 +444,7 @@
         "EMAILADDRESS": {
           "type": "cds.String",
           "@Common.Label": "Email address",
-          "length": 225
+          "length": 255
         },
         "LOGINNAME": {
           "type": "cds.String",
