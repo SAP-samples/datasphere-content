@@ -11,8 +11,7 @@ The ZIP file contains:
 *	SAP HANA Import (dwc_content.tar.gz) 
 *	CSV files (dwc_content_csv.zip)
 
-Download the Tutorial directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/blob/master/SAP%20Data%20Warehouse%20Cloud%20beta%20content%20-%20Tutorial.pdf).
-
+Download the Tutorial directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/blob/master/SAP%20Data%20Warehouse%20Cloud%20beta%20content%20-%20Tutorial.pdf).  
 Download the DP Agent Installation and Troubleshooting guide can be downloaded [here](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/blob/master/SAP%20Data%20Warehouse%20Cloud%20-%20DP%20Agent%20Installation%20V2.pdf)
 
 # Configuration
