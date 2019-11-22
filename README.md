@@ -1,5 +1,5 @@
 # data-warehouse-cloud-content-beta
-Use the Bikes Sales sample content to explore SAP Data Warehouse Cloud during the beta phase. The download contains a data model file for a SAP HANA 2.x to consume the sample data remotely from your SAP HANA CSV files in case you want to start without a SAP HANA.
+Use the Bikes Sales sample content to explore SAP Data Warehouse Cloud during the beta phase, but also in the GA version. The download contains a data model file for a SAP HANA 2.x to consume the sample data remotely from your SAP HANA CSV files in case you want to start without a SAP HANA.
 
 # Requirements
 To use the content, you must be part of the beta Program for SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sapdatawarehouse.cloud) here.
@@ -15,7 +15,7 @@ Download the Tutorial directly [here](https://github.com/SAP-samples/data-wareho
 Download the DP Agent Installation and Troubleshooting guide [here](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/blob/master/SAP%20Data%20Warehouse%20Cloud%20-%20DP%20Agent%20Installation%20V2.pdf)
 
 # Configuration
-To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/beta/en-US) (will be available with the start of the Beta Program on Aug. 19).
+To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/beta/en-US).
 # Known Issues
 None
 # Support and Contribution
