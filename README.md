@@ -1,4 +1,4 @@
-# data-warehouse-cloud-content
+# SAP Data Warehouse Cloud Sample Content
 You can use the Bikes Sales sample content to explore SAP Data Warehouse Cloud. The download contains a data model file for a SAP HANA 2.x to consume the sample data remotely from your SAP HANA CSV files in case you want to start without a SAP HANA.
 
 # Requirements
