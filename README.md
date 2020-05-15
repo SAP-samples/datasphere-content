@@ -11,11 +11,11 @@ The ZIP file contains:
 *	SAP HANA Import (dwc_content.tar.gz) 
 *	CSV files (dwc_content_csv.zip)
 
-Download the Tutorial directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20beta%20content%20-%20Tutorial.pdf).  
+Download the Tutorial directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20Content%20-%20Tutorial.pdf).  
 Download the DP Agent Installation and Troubleshooting guide [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20-%20DP%20Agent%20Installation%20V2.pdf)
 
 # Configuration
-To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/cloud/en-US).
+To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/).
 # Known Issues
 None
 # Support and Contribution
