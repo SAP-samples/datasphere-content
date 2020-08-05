@@ -1,12 +1,13 @@
 # SAP Data Warehouse Cloud Bikes Sales Sample Content
-To explore SAP Data Warehouse Cloud, a "Bike Sales" sample content is offered. The content comes with sample data.
+To explore SAP Data Warehouse Cloud, a "Bike Sales" sample content is offered. This sample content also comes with sample data.
 The download contains a data model file for a SAP HANA 2.x to consume the sample data remotely from your SAP HANA. Or use CSV files in case you want to start without a SAP HANA.
 
 # Requirements
 To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sapdatawarehouse.cloud) here.
 If you want to use your SAP HANA as a remote source with the content, you need a SAP HANA 2.x release
-Of course any HANA 1.x release SAP HANA Cloud release can be used with SAP Data Warehouse Cloud, but the sample can currently only be imported into SAP HANA 2.x.
+Of course any HANA 1.x release or SAP HANA Cloud release can be used with SAP Data Warehouse Cloud, but the sample content can currently only be imported into SAP HANA 2.x.
 A version for SAP HANA Cloud may be offered in the future.
+
 # Download and Installation
 Download the ZIP file (dwc_content.zip) from [release page](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/releases).
 The ZIP file contains:
@@ -18,6 +19,7 @@ Download the DP Agent Installation and Troubleshooting guide [here](https://gith
 
 # Configuration
 To access the remote SAP HANA system from SAP Data Warehouse Cloud an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/).
+
 # Known Issues
 None
 # Support and Contribution
