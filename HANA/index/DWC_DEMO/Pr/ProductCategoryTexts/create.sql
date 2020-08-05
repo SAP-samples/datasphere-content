@@ -1,7 +1,0 @@
-CREATE COLUMN TABLE "DWC_DEMO"."ProductCategoryTexts" ("PRODCATEGORYID" NVARCHAR(2) NOT NULL , "LANGUAGE" NVARCHAR(2) NOT NULL , "SHORT_DESCR" NVARCHAR(20), "MEDIUM_DESCR" NVARCHAR(40), "LONG_DESCR" NVARCHAR(10), PRIMARY KEY ("PRODCATEGORYID", "LANGUAGE")) UNLOAD PRIORITY 5  AUTO MERGE ;
-COMMENT ON TABLE "DWC_DEMO"."ProductCategoryTexts" is 'Product category texts';
-COMMENT ON COLUMN "DWC_DEMO"."ProductCategoryTexts"."PRODCATEGORYID" is 'Product category ID';
-COMMENT ON COLUMN "DWC_DEMO"."ProductCategoryTexts"."LANGUAGE" is 'Langugae';
-COMMENT ON COLUMN "DWC_DEMO"."ProductCategoryTexts"."SHORT_DESCR" is 'Short description';
-COMMENT ON COLUMN "DWC_DEMO"."ProductCategoryTexts"."MEDIUM_DESCR" is 'Medium description';
-COMMENT ON COLUMN "DWC_DEMO"."ProductCategoryTexts"."LONG_DESCR" is 'Long description'

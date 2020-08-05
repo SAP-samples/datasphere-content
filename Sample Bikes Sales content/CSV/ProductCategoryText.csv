@@ -1,0 +1,10 @@
+PRODCATEGORYID,LANGUAGE,SHORT_DESCR,MEDIUM_DESCR,LONG_DESCR
+RO,EN,Road Bike,,
+BX,EN,BMX,,
+CC,EN,Cyclo-cross Bike,,
+MB,EN,Mountain Bike,,
+RC,EN,Racing Bike,,
+DB,EN,Downhill Bike,,
+EB,EN,eBike,,
+CB,EN,Cruiser,,
+HB,EN,Hybrid Bike,,
