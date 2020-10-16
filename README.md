@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-warehouse-cloud-content)](https://api.reuse.software/info/github.com/SAP-samples/data-warehouse-cloud-content)
+
 # SAP Data Warehouse Cloud Content - Samples
 This repository contains the SAP Data Warehouse Cloud "Bike Sales" sample content with sample data. In addition sample data for further SAP Data Warehouse Cloud content is made available here.
 Currently we offer the following:
@@ -27,4 +29,3 @@ For more information, please visit in SAP Community and [ask a question](https:/
 ## License
 Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSES/Apache-2.0.txt).
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-warehouse-cloud-content)](https://api.reuse.software/info/github.com/SAP-samples/data-warehouse-cloud-content)
