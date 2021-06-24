@@ -4,7 +4,7 @@
 This repository contains the SAP Data Warehouse Cloud "Bike Sales" sample content with sample data. In addition sample data for further SAP Data Warehouse Cloud content is made available here.
 Currently we offer the following:
 1. "Bikes Sales" sample content. Find the details and inststructions [here](Sample_Bikes_Sales_content/README.md).
-2. Sample data (CSV) to be used with content for SAP Retail: SAP Consumer Sales Intelligence (SAP CSI). Find the details and inststructions [here](SAP_Retail_content_for_SAP_CSI/README.md).
+2. Sample data (CSV) to be used with content SAP Retail: POS Analytics. Find the details and inststructions [here](SAP_Retail_POS_Analytics/README.md).
 
 ## Requirements
 To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sapdatawarehouse.cloud) here.
