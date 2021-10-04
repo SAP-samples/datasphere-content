@@ -7,7 +7,7 @@ You have successfully imported the content package SAP Sample Content for FI, SD
 
 # Download and Installation
 Download the ZIP file (dwc_sap_sample_content_csv.zip) from the [release page](https://github.com/SAP-samples/data-warehouse-cloud-content/releases). The ZIP files contains the CSV files. The CSV files are group per LoB into separate folders.
-The following blogs explain the content and provides further information on the Sample Content Package and how to setup the content with the sample data from the CSV files: [SAP Data Warehouse Cloud Sample content](https://blogs.sap.com/2021/09/24/sap-data-warehouse-cloud-sample-content)
+The following blogs explain the content and provides further information on the Sample Content Package and how to setup the content with the sample data from the CSV files: [SAP Data Warehouse Cloud Sample content](https://blogs.sap.com/2021/10/04/sap-data-warehouse-cloud-sample-content)
 
 # Configuration
 There is no separate configuration. Follow the documentaion.
