@@ -1,0 +1,38 @@
+PROFITCENTERID,LANGUAGE,SHORT_DESCR,MEDIUM_DESCR,LONG_DESCR
+US10_PCC1L,EN,MZ-C990L,Cruise Cycles,Cruise Cycles - Large
+US10_PCC1S,EN,MZ-C990S,Cruise Cycles,Cruise Cycles - Speciality
+US10_PCC2L,EN,MZ-C950L,Cruise Cycles,Cruise Cycles - Large
+US10_PCC2S,EN,MZ-C950S,Cruise Cycles,Cruise Cycles - Speciality
+US10_PCC3L,EN,MZ-C900L,Cruise Cycles,Cruise Cycles - Large
+US10_PCC3S,EN,MZ-C900S,Cruise Cycles,Cruise Cycles - Speciality
+US10_PCM1L,EN,MZ-M550L,Mountain Cycles,Mountain Cycles - Large
+US10_PCM1S,EN,MZ-M550S,Mountain Cycles,Mountain Cycles - Speciality
+US10_PCM2L,EN,MZ-M525L,Mountain Cycles,Mountain Cycles - Large
+US10_PCM2S,EN,MZ-M525S,Mountain Cycles,Mountain Cycles - Speciality
+US10_PCM3L,EN,MZ-M500L,Mountain Cycles,Mountain Cycles - Large
+US10_PCM3S,EN,MZ-M500S,Mountain Cycles,Mountain Cycles - Speciality
+US10_PCR1L,EN,MZ-R300L,Racing Cycles,Racing Cycles - Large
+US10_PCR1S,EN,MZ-R300S,Racing Cycles,Racing Cycles - Speciality
+US10_PCR2L,EN,MZ-R200L,Racing Cycles,Racing Cycles - Large
+US10_PCR2S,EN,MZ-R200S,Racing Cycles,Racing Cycles - Speciality
+US10_PCR3L,EN,MZ-R100L,Racing Cycles,Racing Cycles - Large
+US10_PCR3S,EN,MZ-R100S,Racing Cycles,Racing Cycles - Speciality
+US10_PCY1L,EN,MZ-Y120L,Youth Cycles,Youth Cycles - Large
+US10_PCY1S,EN,MZ-Y120S,Youth Cycles,Youth Cycles - Speciality
+US10_PCY2L,EN,MZ-Y200L,Youth Cycles,Youth Cycles - Large
+US10_PCY2S,EN,MZ-Y200S,Youth Cycles,Youth Cycles - Speciality
+US10_PCY3L,EN,MZ-Y240L,Youth Cycles,Youth Cycles - Large
+US10_PCY3S,EN,MZ-Y240S,Youth Cycles,Youth Cycles - Speciality
+Z_LOG_PC7,EN,Production,Production,Production
+Z_LOG_PC11,EN,TG - Ebikes,Trading Goods - Ebikes,Trading Goods - Ebikes
+YB600,EN,Shared Services,Shared Services,Shared Services
+Z_LOG_PC3,EN,Invent. Mgmt.,Inventory Management,Inventory Management
+US10_PLC,EN,PL Cruise,Product Line Cruise,Product Line Cruise
+US10_PLM,EN,PL Mountain,Product Line Mountain,Product Line Mountain
+US10_PLR,EN,PL Racing,Product Line Racing,Product Line Racing
+ZGEN_PC7,EN,PC 7,Profit center 8,Profit center 9
+US10_PC11,EN,Corporate,Corporate,Corporate
+Z_LOG_PC4,EN,Comp. and B.,Compensation and Benefits,Compensation and Benefits
+#,EN,Unassigned,Unassigned,Unassigned
+ZGEN_PC3,EN,PC 3,Profit center 3,Profit center 3
+ZGEN_PC6,EN,PC 6,Profit center 6,Profit center 6
