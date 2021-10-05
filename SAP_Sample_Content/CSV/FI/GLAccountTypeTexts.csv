@@ -1,0 +1,6 @@
+ACCOUNTTYPEID,LANGUAGE,SHORT_DESCR,MEDIUM_DESCR,LONG_DESCR
+EXP,EN,,Expense,
+LEQ,EN,,Liabilities and Equity,
+INC,EN,,Income,
+NFIN,EN,,Non-financial Income,
+AST,EN,,Asset,

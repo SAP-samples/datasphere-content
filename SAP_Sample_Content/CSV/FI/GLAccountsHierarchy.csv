@@ -1,0 +1,22 @@
+HIERARCHYID,DESCRIPTION,LEVEL
+CF_CFO,Cash Flow from Operating Activities (CFO),CF_I
+CF_D,Depreciation,CF_CFO
+CF_I,Cash Flow Statement (indirect),<root>
+FPA1/016,Operating Income,FPA1/09
+FPA1/017,Gross Margin,FPA1/016
+FPA1/018,Operating Expense,FPA1/016
+FPA1/020,Cost of Goods Sold,FPA1/017
+FPA1/021,Net Revenue,FPA1/017
+FPA1/022,Gross Revenue,FPA1/021
+FPA1/023,Sales Deductions,FPA1/021
+FPA1/024,Building Expense,FPA1/018
+FPA1/026,Employee Expense,FPA1/018
+FPA1/027,Other Operating Expense,FPA1/018
+FPA1/028,Periodic Building Expense,FPA1/024
+FPA1/029,Utilities Expense,FPA1/024
+FPA1/032,Office Expense,FPA1/026
+FPA1/033,Payroll,FPA1/026
+FPA1/034,Travel,FPA1/026
+FPA1/035,Employee Expense Other,FPA1/026
+FPA1/08,Net Income,<root>
+FPA1/09,Earnings Before Interest & Taxes,FPA1/08

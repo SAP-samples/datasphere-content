@@ -1,0 +1,9 @@
+JOBCLASSIFICATIONID,LANGUAGE,SHORT_DESCRIPTION,MEDIUM_DESCRIPTION,LONG_DESCRIPTION
+JC_Associate,EN,Associate,,
+JC_Specialist,EN,Specialist,,
+JC_Senior specialist,EN,Senior specialist,,
+JC_Expert,EN,Expert,,
+JC_Manager,EN,Manager,,
+JC_Director,EN,Director,,
+JC_Executive,EN,Executive,,
+JC_Senior Executive,EN,Senior Executive,,

@@ -1,0 +1,25 @@
+HIERARCHYID,DESCRIPTION,LEVEL
+MEC,Mexico City,MEX
+LHR,London,ENG
+PHL,Philadelphia,USA
+SYD,Sydney,AUS
+SFO,San Francisco,USA
+FRA,Frankfurt,GER
+DXB,Dubai,UAE
+BLR,Banglore,IND
+PVG,Beijing,CHN
+YVR,Vancouver,CAN
+AUS,Australia,APJ
+MEX,Mexico,LATAM
+ENG,England,EMEA
+USA,United States,NA
+GER,Germany,EMEA
+UAE,United Arab Emirates,EMEA
+IND,India,APJ
+CHN,China,APJ
+CAN,Canada,NA
+LATAM,LATAM,GLOBAL
+APJ,APJ,GLOBAL
+EMEA,EMEA,GLOBAL
+NA,NA,GLOBAL
+GLOBAL,GLOBAL,<root>

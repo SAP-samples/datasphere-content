@@ -1,0 +1,61 @@
+﻿HIERARCHYID,DESCRIPTION,LEVEL
+Total,All Profit Center,<root>
+#,Unassigned,Total
+Material group 1,Material group 1,Total
+US Holding Company,US Holding Company,Total
+Value Added,Value Added,Total
+Cycles,Cycles,Best Run US
+Mountain,Mountain,Best Run US
+Racing,Racing,Best Run US
+US10_PC11,Corporate,Best Run US
+Youth,Youth,Best Run US
+ZGEN_PC3,Profit center 3,Best Run US
+ZGEN_PC6,Profit center 6,Best Run US
+ZGEN_PC7,Profit center 7,Best Run US
+Cruise Cycles - Large,Cruise Cycles - Large,Cruise
+Cruise Cycles - Production,Cruise Cycles - Production,Cruise
+Cruise Cycles - Speciality,Cruise Cycles - Speciality,Cruise
+US10_PCC1L,MZ-C990L,Cruise Cycles - Large
+US10_PCC2L,MZ-C950L,Cruise Cycles - Large
+US10_PCC3L,MZ-C900L,Cruise Cycles - Large
+US10_PLC,Product Line Cruise,Cruise Cycles - Production
+US10_PCC1S,MZ-C990S,Cruise Cycles - Speciality
+US10_PCC2S,MZ-C950S,Cruise Cycles - Speciality
+US10_PCC3S,MZ-C900S,Cruise Cycles - Speciality
+Cruise,Cruise,Cycles
+Z_LOG_PC11,Trading Goods - Ebikes,Material group 1
+Z_LOG_PC3,Inventory Management,Material group 1
+Z_LOG_PC4,Compensation and Benefits,Material group 1
+Z_LOG_PC7,Production,Material group 1
+Mountain Cycles - Large,Mountain Cycles - Large,Mountain
+Mountain Cycles - Production,Mountain Cycles - Production,Mountain
+Mountain Cycles - Speciality,Mountain Cycles - Speciality,Mountain
+US10_PCM1L,MZ-M550L,Mountain Cycles - Large
+US10_PCM2L,MZ-M525L,Mountain Cycles - Large
+US10_PCM3L,MZ-M500L,Mountain Cycles - Large
+US10_PLM,Product Line Mountain,Mountain Cycles - Production
+US10_PCM1S,MZ-M550S,Mountain Cycles - Speciality
+US10_PCM2S,MZ-M525S,Mountain Cycles - Speciality
+US10_PCM3S,MZ-M500S,Mountain Cycles - Speciality
+Racing Cycles - Large,Racing Cycles - Large,Racing
+Racing Cycles - Production,Racing Cycles - Production,Racing
+Racing Cycles - Speciality,Racing Cycles - Speciality,Racing
+US10_PCR1L,MZ-R300L,Racing Cycles - Large
+US10_PCR2L,MZ-R200L,Racing Cycles - Large
+US10_PCR3L,MZ-R100L,Racing Cycles - Large
+US10_PLR,Product Line Racing,Racing Cycles - Production
+US10_PCR1S,MZ-R300S,Racing Cycles - Speciality
+US10_PCR2S,MZ-R200S,Racing Cycles - Speciality
+US10_PCR3S,MZ-R100S,Racing Cycles - Speciality
+YB600,YB600,Shared Services
+Best Run US,Best Run US,US Holding Company
+Shared Services,Shared Services,Value Added
+Youth Cycles - Large,Youth Cycles - Large,Youth
+Youth Cycles - Production,Youth Cycles - Production,Youth
+Youth Cycles - Speciality,Youth Cycles - Speciality,Youth
+US10_PCY1L,MZ-Y120L,Youth Cycles - Large
+US10_PCY2L,MZ-Y200L,Youth Cycles - Large
+US10_PCY3L,MZ-Y240L,Youth Cycles - Large
+US10_PCY1S,MZ-Y120S,Youth Cycles - Speciality
+US10_PCY2S,MZ-Y200S,Youth Cycles - Speciality
+US10_PCY3S,MZ-Y240S,Youth Cycles - Speciality

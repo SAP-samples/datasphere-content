@@ -1,0 +1,57 @@
+HIERARCHYID,DESCRIPTION,LEVEL
+#,Unassigned,<root>
+Z1,Speciality,<root>
+Z3,Medium,<root>
+Z2,Large,<root>
+LACU_S02,TechCycle,Z1
+1000153,Suburban Cycle,Z3
+LACU_S03,All for Bikes,Z1
+LACU_S04,Bike On,Z1
+LACU_S05,MXBike,Z1
+CACU_S01,G&M Bicycle,Z1
+CACU_S02,XYZ Cycles,Z1
+CACU_S03,The Cycle Factor,Z1
+USCU_L01,Skymart Corp,Z2
+USCU_L02,Toys4U,Z2
+USCU_L03,Viadox,Z2
+USCU_L04,Quotex,Z2
+USCU_L05,Bluestar Corp,Z2
+CACU_S04,Carefree Cycles,Z1
+CACU_S05,KeepCycling,Z1
+17100001,Domestic US Customer 1,Z3
+17100002,Domestic US Customer 2,Z3
+LACU_S01,YourCycleShop,Z1
+USCU_L06,Dexon,Z2
+USCU_L07,Interlude Inc,Z2
+USCU_L08,Veracity,Z2
+USCU_L09,Bigmart,Z2
+USCU_L10,CostClub,Z2
+USCU_S01,Performance Bikes,Z1
+USCU_S02,Custom Sports,Z1
+USCU_S03,Eastside Bikes,Z1
+USCU_S04,Fit Cycles,Z1
+USCU_S05,Greater Hartford Area,Z1
+USCU_S06,Hub & Spokes Inc,Z1
+USCU_S07,Westend Cycles,Z1
+USCU_S08,Velocity Cycles,Z1
+USCU_S09,Greenhigh Bikes,Z1
+USCU_S10,Turbo Bikes,Z1
+USCU_S11,Bike World,Z1
+USCU_S12,Century Cycles,Z1
+USCU_S13,Rolling Bike Shop,Z1
+USCU_S14,Cityscape Cycles,Z1
+USCU_S15,Northside Bikes,Z1
+USCU_S16,Gogo Bikes,Z1
+USCU_S17,Bikepros,Z1
+USCU-CUS07,Fast Sports Inc.,Z1
+USCU-CUS08,High Ride Inc.,Z1
+USCU-CUS09,HT Bikes,Z1
+USCU-CUS22,HLL Bikes,Z1
+USCU-CUS23,Rock On Bikes,Z1
+USCU-CUS25,Symphony Sports Inc,Z1
+USCU-CUS36,ebike 36,Z1
+USCU-CUS54,EBIKE54,Z3
+USCU-CUS55,EBIKE55,Z3
+USCU-CUS63,EBIKE63,Z3
+USCU-L-001,PBIKE01,Z3
+USCU-P-008,eBike008,Z1
