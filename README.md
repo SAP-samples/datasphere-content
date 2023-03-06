@@ -7,7 +7,7 @@ This repository contains sample data for the following SAP Data Warehouse Cloud 
 3. Sample Content for Finance (FI), Human Resources (HR) and Sales (SD). Find the details and inststructions [here](SAP_Sample_Content/README.md).
 
 ## Requirements
-To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sapdatawarehouse.cloud).
+To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sap.com/products/technology-platform/data-warehouse-cloud.html).
 
 ## Download and Installation
 Find instructions how to download and install packages in the respective folders following the links above.
@@ -15,7 +15,6 @@ Find instructions how to download and install packages in the respective folders
 * Download the tutorial for the Bikes Sales sample content directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20Content%20-%20Tutorial.pdf).  
 * The SAP Data Warehouse Cloud content documentation is available on the SAP Help Portal [here](https://help.sap.com/doc/4b618244ad5f4fbb8423d08996f8b891/cloud/en-US/SAP_Data_Warehouse_Cloud_Content.pdf).
 * Find the blog for the Sample Content for Finance (FI), Human Resources (HR) and Sales (SD) directly [here](https://blogs.sap.com/2021/10/04/sap-data-warehouse-cloud-sample-content).
-* Download the DP Agent Installation and Troubleshooting guide [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20-%20DP%20Agent%20Installation%20V2.pdf).
 
 ## Configuration
 The configuration differs for the available packages. Find all details in the respective subfolder. Find more information on SAP Data Warehouse Cloud also in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/).
