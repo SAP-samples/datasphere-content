@@ -1,5 +1,4 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-content)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-content)
-
 # SAP Datasphere Content - Samples
 This repository contains sample data for the following SAP Datasphere content scenarios:
 1. "Bikes Sales" sample content. Find the details and inststructions [here](Sample_Bikes_Sales_content/README.md).
