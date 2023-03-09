@@ -6,8 +6,8 @@ To use the content, you need access to SAP Data Warehousing Cloud. Details can b
 You have successfully imported the content package SAP Retail: POS Analytics into your SAP Datasphere system.
 
 # Download and Installation
-Download the ZIP file (dwc_retail_pos_samples_csv.zip) from the [release page](https://github.com/SAP-samples/data-warehouse-cloud-content-beta/releases). The ZIP files contains the CSV files.
-Execute the steps in the [SAP Datasphere content documentation (POS: Analytics for Retail > Setup content with local dataset)](https://help.sap.com/doc/4b618244ad5f4fbb8423d08996f8b891/cloud/en-US/SAP_Data_Warehouse_Cloud_Content.pdf) to setup the content with the sample data from the CSV files.
+Download the ZIP file (sapdatasphere_retail_pos_samples_csv.zip) from the [release page](https://github.com/SAP-samples/datasphere-content/releases). The ZIP files contains the CSV files.
+Execute the steps in the [SAP Datasphere content documentation (POS: Analytics for Retail > Setup content with local dataset)](https://help.sap.com/doc/80d2a628f5204ca1a60713ff508c5823/cloud/en-US/SAP_Datasphere_Content.pdf) to setup the content with the sample data from the CSV files.
 
 # Configuration
 There is no separate configuration. Follow the documentaion.
