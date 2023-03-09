@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-warehouse-cloud-content)](https://api.reuse.software/info/github.com/SAP-samples/data-warehouse-cloud-content)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-content)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-content)
 
 # SAP Datasphere Content - Samples
 This repository contains sample data for the following SAP Datasphere content scenarios:
@@ -7,17 +7,17 @@ This repository contains sample data for the following SAP Datasphere content sc
 3. Sample Content for Finance (FI), Human Resources (HR) and Sales (SD). Find the details and inststructions [here](SAP_Sample_Content/README.md).
 
 ## Requirements
-To use the content, you need access to SAP Datasphere. Details can be found on our [website](https://www.sap.com/products/technology-platform/data-warehouse-cloud.html).
+To use the content, you need access to SAP Datasphere. Details can be found on our [website](https://www.sap.com/products/technology-platform/datasphere.html).
 
 ## Download and Installation
 Find instructions how to download and install packages in the respective folders following the links above.
 
-* Download the tutorial for the Bikes Sales sample content directly [here](https://github.com/SAP-samples/data-warehouse-cloud-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20Content%20-%20Tutorial.pdf).  
+* Download the tutorial for the Bikes Sales sample content directly [here](https://github.com/SAP-samples/datasphere-content/blob/master/SAP%20Datasphere%20%20Content%20-%20Tutorial.pdf).  
 * The SAP Datasphere content documentation is available on the SAP Help Portal [here](https://help.sap.com/doc/4b618244ad5f4fbb8423d08996f8b891/cloud/en-US/SAP_Data_Warehouse_Cloud_Content.pdf).
-* Find the blog for the Sample Content for Finance (FI), Human Resources (HR) and Sales (SD) directly [here](https://blogs.sap.com/2021/10/04/sap-data-warehouse-cloud-sample-content).
+* Find the blog for the Sample Content for Finance (FI), Human Resources (HR) and Sales (SD) directly [here](https://blogs.sap.com/2023/03/09/sap-datasphere-sample-content/).
 
 ## Configuration
-The configuration differs for the available packages. Find all details in the respective subfolder. Find more information on SAP Datasphere also in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/).
+The configuration differs for the available packages. Find all details in the respective subfolder. Find more information on SAP Datasphere also in the [SAP Help Documentation](https://help.sap.com/docs/SAP_DATASPHERE/).
 
 ## Known Issues
 None
