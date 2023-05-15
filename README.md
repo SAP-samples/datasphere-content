@@ -1,10 +1,10 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-content)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-content)
 # SAP Datasphere Content - Samples
 This repository contains sample data for the following SAP Datasphere content scenarios:
-1. "Bikes Sales" sample content. Find the details and inststructions [here](Sample_Bikes_Sales_content/README.md).
-2. Sample data (CSV) to be used with content SAP Retail: POS Analytics. Find the details and inststructions [here](SAP_Retail_POS_Analytics/README.md).
-3. Sample Content for Finance (FI), Human Resources (HR) and Sales (SD). Find the details and inststructions [here](SAP_Sample_Content/README.md).
-4. Sample data for the openSAP course "Introduction to SAP Datasphere". Find the details and inststructions [here](Sample Data openSAP - Introduction SAP Datasphere/README.md).
+1. "Bikes Sales" sample content. Find the details and instructions [here](Sample_Bikes_Sales_content/README.md).
+2. Sample data (CSV) to be used with content SAP Retail: POS Analytics. Find the details and insteuctions [here](SAP_Retail_POS_Analytics/README.md).
+3. Sample Content for Finance (FI), Human Resources (HR) and Sales (SD). Find the details and instructions [here](SAP_Sample_Content/README.md).
+4. Sample data for the openSAP course "Introduction to SAP Datasphere". Find the details and instructions [here](Sample_Data_openSAP_Introduction_to_SAP_Datasphere/README.md).
 
 ## Requirements
 To use any of the content, you need access to an SAP Datasphere system. Further details can be found on our [website](https://www.sap.com/products/technology-platform/datasphere.html).
