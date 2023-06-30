@@ -3,7 +3,7 @@ To explore SAP Datasphere, a "Bike Sales" sample content is offered. This sample
 The download contains a data model file for a SAP HANA 2.x to consume the sample data remotely from your SAP HANA. Or use CSV files in case you want to start without a SAP HANA.
 
 # Requirements
-To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sap.com/products/technology-platform/datasphere.html) here.
+To use the content, you need access to SAP Datasphere. Details can be found on our [website](https://www.sap.com/products/technology-platform/datasphere.html) here.
 If you want to use your SAP HANA as a remote source with the content, you need a SAP HANA 2.x release
 Of course any HANA 1.x release or SAP HANA Cloud release can be used with SAP Datasphere, but the sample content can currently only be imported into SAP HANA 2.x.
 A version for SAP HANA Cloud may be offered in the future.

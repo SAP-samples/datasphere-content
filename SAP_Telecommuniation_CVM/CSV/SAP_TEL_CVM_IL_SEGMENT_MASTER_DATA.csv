@@ -1,0 +1,7 @@
+"SEGMENT_NAME","SEGMENT_DESC"
+GROW,On GROW segment will be considered any customer trend (Delta) between min and max values imported
+FLAT,On FLAT segment will be considered any customer trend (Delta) between min and max values imported
+DROP,On DROP segment will be considered any customer trend (Delta) between min and max values imported
+STOP,On STOP segment will be considered any customer trend (Delta) between min and max values imported
+NON_USER,On NON_USER segment will be considered any customer trend (Delta) between min and max values imported
+NEW_USER,On NEW_USER segment will be considered any customer trend (Delta) between min and max values imported
