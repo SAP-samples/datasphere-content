@@ -1,4 +1,4 @@
-# SAP Datasphere Content - Samples data set SAP Sample Content for FI, HR and SD
+# SAP Datasphere Content - Sample data set for SAP Sample Content for FI, HR and SD
 To enable a direct out-of-the-box start with the content, sample data is provided in this repository. Download the CSVs from this repository and upload the files into the local tables within SAP Datasphere.
 
 # Requirements
