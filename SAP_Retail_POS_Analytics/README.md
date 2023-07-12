@@ -2,7 +2,7 @@
 To enable a direct out-of-the-box start with the content, sample data is provided in this repository. Download the CSVs from this repository and upload the files into the local tables within SAP Datasphere
 
 # Requirements
-To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sap.com/products/technology-platform/data-warehouse-cloud.html).
+To use the content, you need access to SAP Data Warehousing Cloud. Details can be found on our [website](https://www.sap.com/products/technology-platform/datasphere.html).
 You have successfully imported the content package SAP Retail: POS Analytics into your SAP Datasphere system.
 
 # Download and Installation

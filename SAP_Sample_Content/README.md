@@ -6,11 +6,11 @@ To use the content, you need access to SAP Datasphere. Details can be found on o
 You have successfully imported the content package SAP Sample Content for FI, HR and SD into your SAP Datasphere system.
 
 # Download and Installation
-Download the ZIP file (dwc_sap_sample_content_csv.zip) from the [release page](https://github.com/SAP-samples/data-warehouse-cloud-content/releases). The ZIP files contains the CSV files. The CSV files are group per LoB into separate folders.
+Download the ZIP file (sapdatasphere_sap_sample_content_csv.zip) from the [release page](https://github.com/SAP-samples/datasphere-content/releases). The ZIP files contains the CSV files. The CSV files are group per LoB into separate folders.
 The following blog explains the content and provides further information on the Sample Content Package and how to setup the content with the sample data from the CSV files: [SAP Datasphere Sample content](https://blogs.sap.com/2023/03/09/sap-datasphere-sample-content/)
 
 # Configuration
-There is no separate configuration. Follow the documentaion.
+There is no separate configuration required. Please follow the documentation.
 
 # Known Issues
 None

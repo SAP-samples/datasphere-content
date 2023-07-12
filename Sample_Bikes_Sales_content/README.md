@@ -14,10 +14,10 @@ The ZIP file contains:
 *	SAP HANA Import (sapdatasphere_content.tar.gz) 
 *	CSV files (sapdatasphere_content_csv.zip)
 
-Download the Tutorial directly [here](https://github.com/SAP-samples/datasphere-content/blob/master/SAP%20Data%20Warehouse%20Cloud%20Content%20-%20Tutorial.pdf).  
+Download the Tutorial directly [here](https://github.com/SAP-samples/datasphere-content/blob/main/Sample_Bikes_Sales_content/SAP%20Datasphere%20%20Content%20-%20Tutorial.pdf).  
 
 # Configuration
-To access the remote SAP HANA system from SAP Datasphere an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/).
+To access the remote SAP HANA system from SAP Datasphere an additional configuration might be needed – depending on the current customer setup. Details can be found in the [SAP Help Documentation](https://help.sap.com/docs/SAP_DATASPHERE).
 
 # Known Issues
 None

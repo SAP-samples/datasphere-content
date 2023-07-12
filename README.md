@@ -13,8 +13,8 @@ To use any of the content, you need access to an SAP Datasphere system. Further 
 ## Download and Installation
 Find instructions how to download and install packages in the respective folders following the links above.
 
-* Download the tutorial for the Bikes Sales sample content directly [here](https://github.com/SAP-samples/datasphere-content/blob/master/SAP%20Datasphere%20%20Content%20-%20Tutorial.pdf).  
-* The SAP Datasphere content documentation is available on the SAP Help Portal [here](https://help.sap.com/doc/4b618244ad5f4fbb8423d08996f8b891/cloud/en-US/SAP_Data_Warehouse_Cloud_Content.pdf).
+* Download the tutorial for the Bikes Sales sample content directly [here](https://github.com/SAP-samples/datasphere-content/blob/main/Sample_Bikes_Sales_content/SAP%20Datasphere%20%20Content%20-%20Tutorial.pdf).  
+* The SAP Datasphere content documentation is available on the SAP Help Portal [here](https://help.sap.com/doc/80d2a628f5204ca1a60713ff508c5823/cloud/en-US/SAP_Datasphere_Content.pdf).
 * Find the blog for the Sample Content for Finance (FI), Human Resources (HR) and Sales (SD) directly [here](https://blogs.sap.com/2023/03/09/sap-datasphere-sample-content/).
 * Find the openSAP course "Introduction to SAP Datasphere" [here](https://open.sap.com/courses/dsp1).
 
