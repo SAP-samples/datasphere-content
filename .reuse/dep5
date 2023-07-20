@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: data-warehouse-cloud-content
-Upstream-Contact: KRANIG (simon.kranig@sap.com)
-Source: https://github.com/SAP-samples/data-warehouse-cloud-content
+Upstream-Contact: SAP Datasphere content (content.sapdatasphere@sap.com)
+Source: https://github.com/SAP-samples/datasphere-content
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  SAP or third-party products or services developed outside of this project
  ("External Products").
@@ -25,5 +25,5 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  parties the right to use of access any SAP External Product, through API Calls.
 
 Files: *
-Copyright:  2019-2020 SAP SE or an SAP affiliate company and data-warehouse-cloud-content
+Copyright:  2019-2023 SAP SE or an SAP affiliate company and data-warehouse-cloud-content
 License: Apache-2.0
