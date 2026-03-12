@@ -1,0 +1,24 @@
+﻿Solution,KPIId,KPIName,KPIShortName,KPIShortNameOrderId,KPIOrderId,KPIShortNameforCharts
+ARIBA CONTRACTS,CS_304,"Main Agreements Authored and Published, Count",Authoring,3,4,Main Agreements Authored and Published
+ARIBA CONTRACTS,CS_305,"Contracts with Signature Tasks, Count",eSignature Integration,9,5,Signature
+ARIBA CONTRACTS,CS_307,"Contracts with Parent Agreements, Count",Contract Hierarchy,7,7,Parent Agreements
+ARIBA CONTRACTS,CS_308,"Contracts with Sub Agreements, Count",Contract Hierarchy,7,8,Sub Agreements
+ARIBA CONTRACTS,CS_309,"Contracts with Amendments, Count",Amendments,6,9,Contracts with Amendments
+ARIBA CONTRACTS,CS_310,"Procurement Contracts, Count",Contract Repository,1,10,Procurement Contracts
+ARIBA CONTRACTS,CS_311,"Sales Contracts, Count",Sales Contracts,8,11,Sales Contracts
+ARIBA CONTRACTS,CS_313,"Contracts with Approval Tasks, Count",Workflow,2,13,Approval
+ARIBA CONTRACTS,CS_314,"Contracts with Negotiation (Review) Tasks, Count",Workflow,2,14,Negotiation (Review)
+ARIBA CONTRACTS,CS_318,"Contracts with Contract Terms, Count",Compliance ,4,18,Contracts with Contract Terms
+ARIBA CONTRACTS,CS_319,"Contract Line item Documents, Count",CLID,5,19,Contract Line item Documents
+ARIBA SOURCING,CS_203,"RFI Events , Count",RFI & Network Discovery,1,1,RFI Events 
+ARIBA SOURCING,CS_204,"RFP Events, Count",RFP,3,2,RFP Events
+ARIBA SOURCING,CS_206,"Auction Events, Count",Auctions,5,4,"Auction Events, Count"
+ARIBA SOURCING,CS_208,"Advanced Auctions I (Dutch, Japanese, Forward), Count",Advanced Auctions,6,6,"I - Dutch, Japanese, Forward"
+ARIBA SOURCING,CS_209,"Advanced Auctions II (Bid Transformation, Total Cost, Index), Count",Advanced Auctions,6,7,"II - Bid Transformation, Total Cost, Index"
+ARIBA SOURCING,CS_210,RFP Events with Pricing Line Items,RFP with Line Items,4,8,RFP Events with Pricing Line Items
+ARIBA SOURCING,CS_211,"Full Sourcing Projects, Count",Sourcing Projects,7,9,Full Sourcing Projects
+ARIBA SOURCING,CS_212,"Full Sourcing Projects Completed, Count",Sourcing Projects,7,11,Completed
+ARIBA SOURCING,CS_215,"Savings Form, Count",Savings Form,10,14,Savings Form
+ARIBA SOURCING,CS_217,"Full Sourcing Projects with Notify/Review/To-Do Tasks , Count",Sourcing Workflow,8,16,with Notify/Review/To-Do Tasks 
+ARIBA SOURCING,CS_218,"Full Sourcing Projects with Approval Tasks, Count",Sourcing Workflow,8,17,with Approval Tasks
+ARIBA SOURCING,CS_219,"Sourcing Requests, Count",Sourcing Request,9,18,Sourcing Requests
