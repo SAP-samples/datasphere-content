@@ -6,8 +6,8 @@ To use the content, you need access to SAP Datasphere. Details can be found on o
 You have successfully imported the content package _Finance & Spend Analytics for SAP Procurement_ into your SAP Datasphere and SAP Analytics Cloud system.
 
 # Download and Installation
-Download the ZIP file (sapdatasphere_aod_master_data_csv.zip) from the [release page](https://github.com/SAP-samples/datasphere-content/releases). The ZIP files contains one CSV file: SAP_ARIBA_SRC_AODPTION_METRIC_MASTER_DATA_MA.csv. It includes the master data information required to successfully execute the report.
-Please upload this file to the local table SAP_ARIBA_SRC_AODPTION_METRIC_MASTER_DATA_MA in your SAP Datasphere instance in the space SAP_CONTENT (default space in which the content is installed).
+Download the ZIP file (sapdatasphere_aod_master_data_csv.zip) from the [release page](https://github.com/SAP-samples/datasphere-content/releases). The ZIP files contains one CSV file: SAP_ARIBA_SRC_ADOPTION_METRIC_MASTER_DATA_MA. It includes the master data information required to successfully execute the report.
+Please upload this file to the local table SAP_ARIBA_SRC_ADOPTION_METRIC_MASTER_DATA_MA in your SAP Datasphere instance in the space SAP_CONTENT (default space in which the content is installed).
 
 # Configuration
 There is no separate configuration required. Please follow the documentation.
